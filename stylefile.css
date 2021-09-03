@@ -26,12 +26,7 @@
     padding-left: 25%;
     padding-right: 25%;
 }
-.diff {
-    display: flex;
-    align-items: center;
-    padding: 10px 50px;
-    justify-content: space-between;
-}
+
 html {
     box-sizing: border-box;
 }
@@ -39,6 +34,12 @@ html {
     text-align: center;
     justify-self: center;
     width: auto;
+}
+.diff {
+    display: flex;
+    align-items: center;
+    padding: 10px 50px;
+    justify-content: space-between;
 }
 .cell {
     border: 1px #bec6d4 solid;
